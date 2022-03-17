@@ -2,5 +2,6 @@
 members = [
     "bad-stack",
     "stack",
-    "persistent-list"
+    "persistent-list",
+    "bad-deque"
 ]
