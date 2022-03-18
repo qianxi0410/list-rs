@@ -3,5 +3,6 @@ members = [
     "bad-stack",
     "stack",
     "persistent-list",
-    "bad-deque"
+    "bad-deque",
+    "unsafe-deque"
 ]
